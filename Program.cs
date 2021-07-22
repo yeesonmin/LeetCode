@@ -6,31 +6,32 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            int[] nums = { 2, 7, 11, 15 };
-            int target = 9;
+            ListNode l1 = new ListNode();
 
-            int[] answer = TwoSum(nums, target);
-            for (int i = 0; i < answer.Length; i++)
-            {
-                Console.WriteLine(answer[i]);
-            }
+            Console.WriteLine(l1.val);
+
+            l1.next = new ListNode(1);
+            Console.WriteLine(l1.val);
+
+            l1 = l1.next;
+            Console.WriteLine(l1.val);
+
+
         }
 
-        public static int[] TwoSum(int[] nums, int target) {
         
-        int[] answer = new int[2];
-            for(int i = 0 ; i < nums.Length; i++){
-                for (int j = i+1; j < nums.Length; j++)
-                {
-                    if(nums[i] + nums[j] ==target){
-                        answer[0] = i;
-                        answer[1] = j;
-                        break;
-                    }
-                }
+    }
 
-            }
-            return answer;
+
+    public class ListNode
+    {
+        public int val;
+        public ListNode next;
+        public ListNode(int val = 0, ListNode next = null)
+        {
+            this.val = val;
+            this.next = next;
+        }
     }
-    }
+
 }
