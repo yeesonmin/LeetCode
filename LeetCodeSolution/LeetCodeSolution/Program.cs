@@ -1,16 +1,17 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace LeetCode
+namespace LeetCodeSolution
 {
     class Program
     {
         static void Main(string[] args)
         {
-
             Console.Write(LengthOfLongestSubstring("dvdf").ToString());
-
         }
-
 
         public static int LengthOfLongestSubstring(string s)
         {
@@ -33,8 +34,5 @@ namespace LeetCode
 
             return currentMax;
         }
-
     }
-
-
 }

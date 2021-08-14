@@ -1,0 +1,7 @@
+C:\Users\yeeso\Desktop\LeetCode\LeetCodeSolution\LeetCodeSolution\bin\Debug\LeetCodeSolution.exe.config
+C:\Users\yeeso\Desktop\LeetCode\LeetCodeSolution\LeetCodeSolution\bin\Debug\LeetCodeSolution.exe
+C:\Users\yeeso\Desktop\LeetCode\LeetCodeSolution\LeetCodeSolution\bin\Debug\LeetCodeSolution.pdb
+C:\Users\yeeso\Desktop\LeetCode\LeetCodeSolution\LeetCodeSolution\obj\Debug\LeetCodeSolution.csproj.AssemblyReference.cache
+C:\Users\yeeso\Desktop\LeetCode\LeetCodeSolution\LeetCodeSolution\obj\Debug\LeetCodeSolution.csproj.CoreCompileInputs.cache
+C:\Users\yeeso\Desktop\LeetCode\LeetCodeSolution\LeetCodeSolution\obj\Debug\LeetCodeSolution.exe
+C:\Users\yeeso\Desktop\LeetCode\LeetCodeSolution\LeetCodeSolution\obj\Debug\LeetCodeSolution.pdb
